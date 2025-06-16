@@ -8,3 +8,5 @@ Developed a smart parking system using a custom ESP32 PCB with PIR sensors, serv
 Implemented ANPR using Python and Tesseract OCR to automate gate access based on vehicle number verification.
 
 Created a real-time web dashboard for live parking slot status and logged unknown entries with timestamp.
+
+#Smart Parking System Using IoT and OCR (ANPR) Check for favourable Pin number of the Hardware and the Components are Installed.#
